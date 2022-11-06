@@ -1,4 +1,4 @@
-package com.coffeepoweredcrew.factorymethod.message;
+package com.coffeepoweredcrew.factorymethod.src.product;
 
 public class TextMessage extends Message {
 	

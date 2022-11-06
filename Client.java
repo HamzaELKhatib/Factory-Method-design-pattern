@@ -1,6 +1,9 @@
 package com.coffeepoweredcrew.factorymethod;
 
-import com.coffeepoweredcrew.factorymethod.message.Message;
+import com.coffeepoweredcrew.factorymethod.src.product.Message;
+import com.coffeepoweredcrew.factorymethod.src.creator.JSONMessageCreator;
+import com.coffeepoweredcrew.factorymethod.src.creator.MessageCreator;
+import com.coffeepoweredcrew.factorymethod.src.creator.TextMessageCreator;
 
 public class Client {
 

@@ -1,7 +1,7 @@
-package com.coffeepoweredcrew.factorymethod;
+package com.coffeepoweredcrew.factorymethod.src.creator;
 
-import com.coffeepoweredcrew.factorymethod.message.Message;
-import com.coffeepoweredcrew.factorymethod.message.TextMessage;
+import com.coffeepoweredcrew.factorymethod.src.product.Message;
+import com.coffeepoweredcrew.factorymethod.src.product.TextMessage;
 
 /**
  * Provides implementation for creating Text messages

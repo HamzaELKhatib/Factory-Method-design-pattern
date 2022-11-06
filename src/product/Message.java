@@ -1,4 +1,4 @@
-package com.coffeepoweredcrew.factorymethod.message;
+package com.coffeepoweredcrew.factorymethod.src.product;
 
 /**
  * This class represents interface for our "product" which is a message

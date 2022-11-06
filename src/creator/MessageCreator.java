@@ -1,6 +1,6 @@
-package com.coffeepoweredcrew.factorymethod;
+package com.coffeepoweredcrew.factorymethod.src.creator;
 
-import com.coffeepoweredcrew.factorymethod.message.Message;
+import com.coffeepoweredcrew.factorymethod.src.product.Message;
 
 /**
  * This is our abstract "creator". 
