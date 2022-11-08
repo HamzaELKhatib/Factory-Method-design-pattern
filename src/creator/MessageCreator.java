@@ -17,7 +17,7 @@ public abstract class MessageCreator {
 		
 		return msg;
 	}
-	
+	//Todo: Implement this method in sub-classes
 	//Factory method
 	protected abstract Message createMessage();
 }
