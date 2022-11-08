@@ -1,4 +1,4 @@
-package com.coffeepoweredcrew.factorymethod;
+package com.coffeepoweredcrew.factorymethod.src;
 
 import com.coffeepoweredcrew.factorymethod.src.product.Message;
 import com.coffeepoweredcrew.factorymethod.src.creator.JSONMessageCreator;
